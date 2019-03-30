@@ -7,10 +7,10 @@
 //
 
 #import "ViewController.h"
-#import "AVFoundation/AVAudioPlayer.h"
+#import "AVFoundation/AVFoundation.h"
 
 @interface ViewController ()
-
+@property (nonatomic, strong) AVAudioPlayer *audioPlayer;
 @end
 
 @implementation ViewController
@@ -21,11 +21,11 @@
     NSURL *url = [NSURL fileURLWithPath:[[NSBundle mainBundle]
                                          pathForResource:@"0917"
                                          ofType:@"mp3"]];
-    AVAudioPlayer *audioPlayer = [[AVAudioPlayer alloc]
-                                  initWithContentsOfURL:url
-                                  error:nil];
-    audioPlayer.numberOfLoops = -1;
-    [audioPlayer play];
+    _audioPlayer = [[AVAudioPlayer alloc]
+                    initWithContentsOfURL:url
+                    error:nil];
+    _audioPlayer.numberOfLoops = -1;
+    [_audioPlayer play];
 }
 
 

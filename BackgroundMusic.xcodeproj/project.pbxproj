@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F9182395224CD422007623F6 /* Extra_fast_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9182394224CD422007623F6 /* Extra_fast_gpsie.gpx */; };
+		F942957722386B8400AB2F62 /* Ekaterinin_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F942957622386B8400AB2F62 /* Ekaterinin_gpsie.gpx */; };
 		F961064021C239850099BA27 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F961063F21C239850099BA27 /* AppDelegate.m */; };
 		F961064321C239850099BA27 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F961064221C239850099BA27 /* ViewController.m */; };
 		F961064621C239850099BA27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F961064421C239850099BA27 /* Main.storyboard */; };
@@ -14,9 +16,24 @@
 		F961064B21C239880099BA27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F961064921C239880099BA27 /* LaunchScreen.storyboard */; };
 		F961064E21C239880099BA27 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F961064D21C239880099BA27 /* main.m */; };
 		F961065521C23BC70099BA27 /* 0917.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F961065421C23BC60099BA27 /* 0917.mp3 */; };
+		F964053021F1B7F200D239DD /* Longexplorewalk_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F964052F21F1B7F100D239DD /* Longexplorewalk_gpsie.gpx */; };
+		F9756FBD221E87280082D758 /* Pushkin_museum_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9756FBC221E87280082D758 /* Pushkin_museum_gpsie.gpx */; };
+		F9BE5A3B21E87F870088A415 /* Parkkulturi_GPSie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9BE5A3A21E87F870088A415 /* Parkkulturi_GPSie.gpx */; };
+		F9BE5A3D21E8A04F0088A415 /* Pionerprud_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9BE5A3C21E8A04F0088A415 /* Pionerprud_gpsie.gpx */; };
+		F9BE5A4121E8D76A0088A415 /* Ostozhenka38_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9BE5A4021E8D76A0088A415 /* Ostozhenka38_gpsie.gpx */; };
+		F9BE5A4521E924310088A415 /* Dybki_GPSie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9BE5A4421E924300088A415 /* Dybki_GPSie.gpx */; };
+		F9EC263E220B4EA300A203F9 /* Center_pokestops_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9EC263D220B4EA300A203F9 /* Center_pokestops_gpsie.gpx */; };
+		F9EC268122115C5300A203F9 /* Unicorns_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9EC268022115C5300A203F9 /* Unicorns_gpsie.gpx */; };
+		F9F6CAC72241312E00264AB5 /* Sf_unowns_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9F6CAC62241312D00264AB5 /* Sf_unowns_gpsie.gpx */; };
+		F9F6CAC9224277DE00264AB5 /* Sf_unown_2_gpsie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9F6CAC8224277DE00264AB5 /* Sf_unown_2_gpsie.gpx */; };
+		F9FDA34921D100CF004EBCD5 /* Muzeon_GPSie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9FDA34821D100CF004EBCD5 /* Muzeon_GPSie.gpx */; };
+		F9FDA38221DE36D6004EBCD5 /* Timiryazev_GPSie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = F9FDA38121DE36D5004EBCD5 /* Timiryazev_GPSie.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F9182394224CD422007623F6 /* Extra_fast_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Extra_fast_gpsie.gpx; sourceTree = "<group>"; };
+		F942957622386B8400AB2F62 /* Ekaterinin_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Ekaterinin_gpsie.gpx; sourceTree = "<group>"; };
+		F956487021C398A800BCFFEC /* LeoTolstoy.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = LeoTolstoy.gpx; sourceTree = "<group>"; };
 		F961063B21C239850099BA27 /* BackgroundMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BackgroundMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F961063E21C239850099BA27 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		F961063F21C239850099BA27 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -30,6 +47,22 @@
 		F961065421C23BC60099BA27 /* 0917.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 0917.mp3; sourceTree = "<group>"; };
 		F961065621C23BF00099BA27 /* ShaggyBar.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ShaggyBar.gpx; sourceTree = "<group>"; };
 		F961065721C24B7A0099BA27 /* Stroganov.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Stroganov.gpx; sourceTree = "<group>"; };
+		F961065821C2C3480099BA27 /* Krasnostudencheski.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Krasnostudencheski.gpx; sourceTree = "<group>"; };
+		F964052F21F1B7F100D239DD /* Longexplorewalk_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Longexplorewalk_gpsie.gpx; sourceTree = "<group>"; };
+		F9756FBC221E87280082D758 /* Pushkin_museum_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Pushkin_museum_gpsie.gpx; sourceTree = "<group>"; };
+		F9BE5A3A21E87F870088A415 /* Parkkulturi_GPSie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Parkkulturi_GPSie.gpx; sourceTree = "<group>"; };
+		F9BE5A3C21E8A04F0088A415 /* Pionerprud_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Pionerprud_gpsie.gpx; sourceTree = "<group>"; };
+		F9BE5A4021E8D76A0088A415 /* Ostozhenka38_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Ostozhenka38_gpsie.gpx; sourceTree = "<group>"; };
+		F9BE5A4421E924300088A415 /* Dybki_GPSie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Dybki_GPSie.gpx; sourceTree = "<group>"; };
+		F9EC263D220B4EA300A203F9 /* Center_pokestops_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Center_pokestops_gpsie.gpx; sourceTree = "<group>"; };
+		F9EC268022115C5300A203F9 /* Unicorns_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Unicorns_gpsie.gpx; sourceTree = "<group>"; };
+		F9F6CAC62241312D00264AB5 /* Sf_unowns_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Sf_unowns_gpsie.gpx; sourceTree = "<group>"; };
+		F9F6CAC8224277DE00264AB5 /* Sf_unown_2_gpsie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Sf_unown_2_gpsie.gpx; sourceTree = "<group>"; };
+		F9FDA33C21D0B12A004EBCD5 /* Naberezhnaya.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Naberezhnaya.gpx; sourceTree = "<group>"; };
+		F9FDA34821D100CF004EBCD5 /* Muzeon_GPSie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Muzeon_GPSie.gpx; sourceTree = "<group>"; };
+		F9FDA35421D20139004EBCD5 /* Center_GPSie.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Center_GPSie.gpx; sourceTree = "<group>"; };
+		F9FDA35521D2210F004EBCD5 /* Dot.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Dot.gpx; sourceTree = "<group>"; };
+		F9FDA38121DE36D5004EBCD5 /* Timiryazev_GPSie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Timiryazev_GPSie.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +102,25 @@
 				F961065621C23BF00099BA27 /* ShaggyBar.gpx */,
 				F961065721C24B7A0099BA27 /* Stroganov.gpx */,
 				F961064421C239850099BA27 /* Main.storyboard */,
+				F961065821C2C3480099BA27 /* Krasnostudencheski.gpx */,
+				F9F6CAC62241312D00264AB5 /* Sf_unowns_gpsie.gpx */,
+				F9F6CAC8224277DE00264AB5 /* Sf_unown_2_gpsie.gpx */,
+				F956487021C398A800BCFFEC /* LeoTolstoy.gpx */,
+				F9FDA33C21D0B12A004EBCD5 /* Naberezhnaya.gpx */,
+				F9FDA38121DE36D5004EBCD5 /* Timiryazev_GPSie.gpx */,
+				F9BE5A3A21E87F870088A415 /* Parkkulturi_GPSie.gpx */,
+				F9BE5A3C21E8A04F0088A415 /* Pionerprud_gpsie.gpx */,
+				F9EC263D220B4EA300A203F9 /* Center_pokestops_gpsie.gpx */,
+				F9BE5A4021E8D76A0088A415 /* Ostozhenka38_gpsie.gpx */,
+				F9BE5A4421E924300088A415 /* Dybki_GPSie.gpx */,
+				F9FDA34821D100CF004EBCD5 /* Muzeon_GPSie.gpx */,
+				F9FDA35421D20139004EBCD5 /* Center_GPSie.gpx */,
+				F9FDA35521D2210F004EBCD5 /* Dot.gpx */,
+				F942957622386B8400AB2F62 /* Ekaterinin_gpsie.gpx */,
+				F9756FBC221E87280082D758 /* Pushkin_museum_gpsie.gpx */,
+				F964052F21F1B7F100D239DD /* Longexplorewalk_gpsie.gpx */,
+				F9EC268022115C5300A203F9 /* Unicorns_gpsie.gpx */,
+				F9182394224CD422007623F6 /* Extra_fast_gpsie.gpx */,
 				F961064721C239880099BA27 /* Assets.xcassets */,
 				F961065421C23BC60099BA27 /* 0917.mp3 */,
 				F961064921C239880099BA27 /* LaunchScreen.storyboard */,
@@ -140,10 +192,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9F6CAC9224277DE00264AB5 /* Sf_unown_2_gpsie.gpx in Resources */,
+				F9BE5A3D21E8A04F0088A415 /* Pionerprud_gpsie.gpx in Resources */,
+				F942957722386B8400AB2F62 /* Ekaterinin_gpsie.gpx in Resources */,
+				F9FDA38221DE36D6004EBCD5 /* Timiryazev_GPSie.gpx in Resources */,
+				F9EC263E220B4EA300A203F9 /* Center_pokestops_gpsie.gpx in Resources */,
+				F9FDA34921D100CF004EBCD5 /* Muzeon_GPSie.gpx in Resources */,
+				F9BE5A3B21E87F870088A415 /* Parkkulturi_GPSie.gpx in Resources */,
+				F9BE5A4521E924310088A415 /* Dybki_GPSie.gpx in Resources */,
 				F961064B21C239880099BA27 /* LaunchScreen.storyboard in Resources */,
+				F9182395224CD422007623F6 /* Extra_fast_gpsie.gpx in Resources */,
+				F964053021F1B7F200D239DD /* Longexplorewalk_gpsie.gpx in Resources */,
+				F9F6CAC72241312E00264AB5 /* Sf_unowns_gpsie.gpx in Resources */,
 				F961064821C239880099BA27 /* Assets.xcassets in Resources */,
+				F9756FBD221E87280082D758 /* Pushkin_museum_gpsie.gpx in Resources */,
 				F961064621C239850099BA27 /* Main.storyboard in Resources */,
+				F9EC268122115C5300A203F9 /* Unicorns_gpsie.gpx in Resources */,
 				F961065521C23BC70099BA27 /* 0917.mp3 in Resources */,
+				F9BE5A4121E8D76A0088A415 /* Ostozhenka38_gpsie.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +367,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UL55TQ5QTF;
 				INFOPLIST_FILE = BackgroundMusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -318,6 +385,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = UL55TQ5QTF;
 				INFOPLIST_FILE = BackgroundMusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

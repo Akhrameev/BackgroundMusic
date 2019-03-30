@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsies="https://www.gpsies.com/GPX/1/0" creator="GPSies https://www.gpsies.com - Unicorns_gpsie" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd https://www.gpsies.com/GPX/1/0 https://www.gpsies.com/gpsies.xsd">
+
+      <wpt lat="55.73921590" lon="37.60203830">
+        <ele>127.00000</ele>
+        <time>2010-01-01T00:00:00Z</time>
+      </wpt>
+      <wpt lat="55.73914340" lon="37.60240310">
+        <ele>127.00000</ele>
+        <time>2010-01-01T00:00:08Z</time>
+      </wpt>
+      <wpt lat="55.73898640" lon="37.60259620">
+        <ele>126.00000</ele>
+        <time>2010-01-01T00:00:16Z</time>
+      </wpt>
+      <wpt lat="55.73890180" lon="37.60253190">
+        <ele>126.00000</ele>
+        <time>2010-01-01T00:00:20Z</time>
+      </wpt>
+      <wpt lat="55.73881730" lon="37.60233870">
+        <ele>127.00000</ele>
+        <time>2010-01-01T00:00:25Z</time>
+      </wpt>
+      <wpt lat="55.73899850" lon="37.60229580">
+        <ele>127.00000</ele>
+        <time>2010-01-01T00:00:32Z</time>
+      </wpt>
+      <wpt lat="55.73897430" lon="37.60203830">
+        <ele>127.00000</ele>
+        <time>2010-01-01T00:00:38Z</time>
+      </wpt>
+      <wpt lat="55.73909510" lon="37.60210270">
+        <ele>127.00000</ele>
+        <time>2010-01-01T00:00:43Z</time>
+      </wpt>
+      <wpt lat="55.73910720" lon="37.60268210">
+        <ele>126.00000</ele>
+        <time>2010-01-01T00:00:56Z</time>
+      </wpt>
+      <wpt lat="55.73882930" lon="37.60212420">
+        <ele>127.00000</ele>
+        <time>2010-01-01T00:01:13Z</time>
+      </wpt>
+      <wpt lat="55.73913130" lon="37.60188810">
+        <ele>127.00000</ele>
+        <time>2010-01-01T00:01:26Z</time>
+      </wpt>
+
+</gpx>
+

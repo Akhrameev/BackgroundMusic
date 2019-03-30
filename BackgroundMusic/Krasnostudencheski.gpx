@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+     -->
+    <wpt lat="55.824130" lon="37.561798">
+        <name>Old trolley station</name>
+        <time>2014-09-24T14:00:00Z</time>
+    </wpt>
+
+    <wpt lat="55.825436" lon="37.561951">
+        <name>Krasnostudencheski 6</name>
+        <time>2014-09-24T14:01:00Z</time>
+    </wpt>
+
+    <wpt lat="55.824990" lon="37.563598">
+        <name>Pyaterochka</name>
+        <time>2014-09-24T14:02:00Z</time>
+    </wpt>
+
+    <wpt lat="55.825378" lon="37.565710">
+        <name>Olivka</name>
+        <time>2014-09-24T14:03:30Z</time>
+    </wpt>
+
+    <wpt lat="55.825474" lon="37.566246">
+        <name>Vkuswill</name>
+        <time>2014-09-24T14:04:30Z</time>
+    </wpt>
+
+    <wpt lat="55.824824" lon="37.565946">
+        <name>Vkuswill - naprotiv</name>
+        <time>2014-09-24T14:05:20Z</time>
+    </wpt>
+
+    <wpt lat="55.823797" lon="37.566353">
+        <name>School 1554</name>
+        <time>2014-09-24T14:06:30Z</time>
+    </wpt>
+
+    <wpt lat="55.823254" lon="37.566611">
+        <name>North enterance</name>
+        <time>2014-09-24T14:07:10Z</time>
+    </wpt>
+
+    <wpt lat="55.822915" lon="37.565731">
+        <name>Attractions</name>
+        <time>2014-09-24T14:08:00Z</time>
+    </wpt>
+
+    <wpt lat="55.821683" lon="37.565336">
+        <name>Square near yellow kinder playground</name>
+        <time>2014-09-24T14:10:00Z</time>
+    </wpt>
+
+    <wpt lat="55.821683" lon="37.564547">
+        <name>Bridge</name>
+        <time>2014-09-24T14:11:00Z</time>
+    </wpt>
+
+    <wpt lat="55.821491" lon="37.563528">
+        <name>Columns</name>
+        <time>2014-09-24T14:11:40Z</time>
+    </wpt>
+
+    <wpt lat="55.822650" lon="37.563414">
+        <name>Exit</name>
+        <time>2014-09-24T14:13:00Z</time>
+    </wpt>
+
+    <wpt lat="55.823638" lon="37.560114">
+        <name>Kinder playground</name>
+        <time>2014-09-24T14:15:00Z</time>
+    </wpt>
+
+    <!--
+     End
+     -->
+
+    <wpt lat="55.824130" lon="37.561798">
+        <name>Old trolley station</name>
+        <time>2014-09-24T14:15:50Z</time>
+    </wpt>
+    
+</gpx>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+     -->
+    <wpt lat="55.732391" lon="37.589069">
+        <name>Shaggy</name>
+        <time>2014-09-24T14:00:00Z</time>
+    </wpt>
+
+    <wpt lat="55.732042" lon="37.591062">
+        <name>Church</name>
+        <time>2014-09-24T14:01:20Z</time>
+    </wpt>
+
+    <wpt lat="55.732716" lon="37.591544">
+        <name>Cross</name>
+        <time>2014-09-24T14:03:00Z</time>
+    </wpt>
+
+    <wpt lat="55.733075" lon="37.593461">
+        <name>Parikhmaher</name>
+        <time>2014-09-24T14:04:30Z</time>
+    </wpt>
+
+    <wpt lat="55.734597" lon="37.595464">
+        <name>Bridge</name>
+        <time>2014-09-24T14:06:00Z</time>
+    </wpt>
+
+    <wpt lat="55.734544" lon="37.596835">
+        <name>Bridge Downstairs</name>
+        <time>2014-09-24T14:06:40Z</time>
+    </wpt>
+
+    <wpt lat="55.733272" lon="37.594892">
+        <name>Xvelo</name>
+        <time>2014-09-24T14:08:00Z</time>
+    </wpt>
+
+    <wpt lat="55.732228" lon="37.593906">
+        <name>Parikhmaher 2</name>
+        <time>2014-09-24T14:09:40Z</time>
+    </wpt>
+
+    <wpt lat="55.731574" lon="37.594228">
+        <name>Naberezhnaya</name>
+        <time>2014-09-24T14:11:10Z</time>
+    </wpt>
+
+    <wpt lat="55.730650" lon="37.592245">
+        <name>Gym Naberezhnaya</name>
+        <time>2014-09-24T14:12:30Z</time>
+    </wpt>
+
+    <wpt lat="55.730910" lon="37.591333">
+        <name>Way back</name>
+        <time>2014-09-24T14:14:00Z</time>
+    </wpt>
+
+    <!--
+     End
+     -->
+
+    <wpt lat="55.732391" lon="37.589069">
+        <name>Shaggy</name>
+        <time>2014-09-24T14:16:00Z</time>
+    </wpt>
+    
+</gpx>
